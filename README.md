@@ -1,3 +1,5 @@
-# Complete RESTful Todos API 
-### Built with Node, Express, and Mongo
+# Todo List App
+Fullstack App built with Mongo, Express, React, and Node.
 
+# Todo
+- Style the application
